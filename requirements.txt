@@ -1,5 +1,4 @@
 numpy
-tkinter
-sklearn
+scikit-learn
 opencv-python
 matplotlib
